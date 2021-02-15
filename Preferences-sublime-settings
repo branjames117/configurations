@@ -57,15 +57,14 @@
 		"OCaml",
 		"Rails",
 		"Ruby",
-		"Vintage"
+		"Vintage",
+		"zzz A File Icon zzz"
 	],
 	"installed_packages":
 	[
-		"Anaconda",
 		"BracketHighlighter",
 		"Material Theme",
-		"Predawn",
-		"SideBarEnhancements"
+		"Predawn"
 	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
